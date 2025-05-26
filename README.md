@@ -12,11 +12,15 @@
 
 ###
 
-<img align="right" height="130" src="https://i.gifer.com/3AyY.gif"  />
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning JavaScript and CodeIgniter<br>🎯 Goals: Developing my first major web application and securing an internship.<br>🎲 Fun fact: Enjoy debugging late at night</p>
+<p align="left">
+    ✨ Creating bugs since 2023<br>
+    📚 I'm currently learning JavaScript and CodeIgniter<br>
+    🎯 Goals: Developing my first major web application and securing an internship.<br>
+    🎲 Fun fact: Enjoy debugging late at night
+</p>
 
 ###
 
