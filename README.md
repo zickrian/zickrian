@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="/img/Case Study Docs Banner in Dark Orange Pink Geometric Style (1).png"  />
+  <img height="200" src="img/mario.gif"  />
 </div>
 
 ###
