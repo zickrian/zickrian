@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="img/mario.gif"  />
+  <img style="max-width: 100%; display: inline-block;" src="img/mario.gif"  />
 </div>
 
 ###
