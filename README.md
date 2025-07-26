@@ -16,11 +16,11 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2023
-📚 Currently exploring Machine Learning
-🛡️ Just secured ASAH by Dicoding to strengthen my skills
-🎯 Goals: Build my first major web app and land an internship
-🎲 Fun fact: I enjoy debugging late at night—it’s my coding therapy
+✨ Creating bugs since 2023<br>
+📚 Currently exploring Machine Learning<br>
+🛡️ Just secured ASAH by Dicoding to strengthen my skills<br>
+🎯 Goals: Build my first major web app and get an internship<br>
+🎲 Fun fact: I enjoy debugging late at night
 </p>
 
 ###
