@@ -16,10 +16,11 @@
 ###
 
 <p align="left">
-    ✨ Creating bugs since 2023<br>
-    📚 I'm currently learning JavaScript and CodeIgniter<br>
-    🎯 Goals: Developing my first major web application and securing an internship.<br>
-    🎲 Fun fact: Enjoy debugging late at night
+✨ Creating bugs since 2023
+📚 Currently exploring Machine Learning
+🛡️ Just secured ASAH by Dicoding to strengthen my skills
+🎯 Goals: Build my first major web app and land an internship
+🎲 Fun fact: I enjoy debugging late at night—it’s my coding therapy
 </p>
 
 ###
