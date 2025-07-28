@@ -22,7 +22,9 @@
 🎯 Goals: Build my first major web app and get an internship<br>
 🎲 Fun fact: I enjoy debugging late at night
 </p>
-
+<button> 
+  <a href="https://portofolio-delta-inky.vercel.app/"> PORTOFOLIO WEB</a> 
+</button>
 ###
 
 <br clear="both">
