@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/mario.gif" alt="Mario Animation" width="200" />
+  <img src="img/mario.gif" alt="Mario Animation" width="600px" />
 </div>
 
 <h1 align="center">
