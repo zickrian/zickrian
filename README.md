@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="img/Case Study Docs Banner in Dark Orange Pink Geometric Style (1).png" alt="Header Banner" width="100%" />
+  <img src="img/mario.gif" alt="Mario Animation" width="200" />
 </div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zickrian!;" />
 </h1>
-
-<div align="center">
-  <img src="img/mario.gif" alt="Mario Animation" width="200" />
-</div>
 
 ## 🚀 About Me
 
@@ -59,16 +55,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zickrian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zickrian&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="trophy" />
-</div>
-
-## 🐍 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zickrian/zickrian/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zickrian/zickrian/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zickrian/zickrian/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirdausKz/FirdausKz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirdausKz/FirdausKz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FirdausKz/FirdausKz/output/pacman-contribution-graph.svg">
 </picture>
 
 ## 🤝 Let's Connect!
