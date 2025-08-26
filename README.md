@@ -13,7 +13,7 @@
 📚 Currently exploring <strong>Machine Learning</strong> and AI technologies<br>
 🛡️ Just secured <strong>ASAH by Dicoding</strong> to strengthen my skills<br>
 🎯 Goals: Build my first major web app and secure an internship<br>
-🎲 Fun fact: I'm a night owl who enjoys debugging sessions with coffee ☕
+🎲 Fun fact: I’m a night owl who loves late-night debugging sessions with coffee.☕💻
 </p>
 
 <div align="center">
