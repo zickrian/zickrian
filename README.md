@@ -16,12 +16,6 @@
 🎲 Fun fact: I’m a night owl who loves late-night debugging sessions with coffee.☕💻
 </p>
 
-<div align="center">
-  <a href="https://portofolio-delta-inky.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
 <br clear="both">
 
 ## 🛠️ Tech Stack & Tools
