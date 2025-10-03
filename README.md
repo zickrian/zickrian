@@ -13,7 +13,7 @@
 📚 Currently exploring <strong>Machine Learning</strong> and AI technologies<br>
 🛡️ Just secured <strong>ASAH by Dicoding</strong> to strengthen my skills<br>
 🎯 Goals: Build my first major web app and secure an internship<br>
-🎲 Fun fact: I’m a night owl who loves late-night debugging sessions with coffee.☕💻
+🎲 Fun fact: I'm a night owl who loves late-night debugging sessions with coffee.☕💻
 </p>
 
 <br clear="both">
@@ -48,6 +48,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zickrian/zickrian/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zickrian/zickrian/output/pacman-contribution-graph.svg">
 </picture>
+
+## 📈 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zickrian&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
 ## 🤝 Let's Connect!
 
