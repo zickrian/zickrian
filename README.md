@@ -1,3 +1,4 @@
-<p align="center">
-  <img src="img/ssstwitter.com_1761385365098.gif" style="width: 100%; height: 100vh; object-fit: cover;" />
-</p>
+<div align="center">
+  <!-- GIF ssstwitter.com -->
+  <img src="img/ssstwitter.com_1761385365098.gif" alt="ssstwitter GIF" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
