@@ -1,4 +1,76 @@
+<div align="center" style="margin-bottom: 12px;">
+  <img src="https://raw.githubusercontent.com/zickrian/zickrian/main/img/ssstwitter.com_1761385365098.PNG" alt="Firdaus" width="320" style="border-radius: 12px;" />
+</div>
+
+<table>
+  <tr>
+    <td width="280" valign="top">
+
 <div align="center">
+  <h2>Firdaus Khotibul Zickrian</h2>
+  <p style="margin: 4px 0;">AI / ML & Web Development</p>
+  <p style="margin: 4px 0;">Semarang, Indonesia</p>
+
+  <p>
+    <a href="mailto:firdauskhotibulzickrian@gmail.com">Email</a> ·
+    <a href="https://linkedin.com/in/firdauskhotibulzickrian">LinkedIn</a> ·
+    <a href="https://github.com/zickrian">GitHub</a>
+  </p>
+
+  <p><b>AI Engineer @ Asah by Dicoding & Accenture</b></p>
+  <p>Universitas Dian Nuswantoro | Informatics</p>
+
+  <p style="margin-top: 12px;">
+    <img src="https://img.shields.io/badge/AI%2FML-Primary-blue" />
+    <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20TensorFlow-informational" />
+    <img src="https://img.shields.io/badge/Web-Data--Driven%20Apps-success" />
+  </p>
+</div>
+
+    </td>
+    <td valign="top">
+
+<h1>👋 Hello, I'm Firdaus!</h1>
+<p><b>AI/ML Engineer focusing on applied AI</b></p>
+
+<ul>
+  <li>Semarang, Indonesia</li>
+  <li>Email: <a href="mailto:firdauskhotibulzickrian@gmail.com">firdauskhotibulzickrian@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/firdauskhotibulzickrian">firdauskhotibulzickrian</a></li>
+  <li>GitHub: <a href="https://github.com/zickrian">zickrian</a></li>
+</ul>
+
+### About Me
+I blend AI, computer vision, and software engineering to turn data into practical products. I enjoy leading teams, mentoring students, and deploying models end-to-end with solid engineering practices.
+
+### Professional Highlights
+- Project Manager & ML Engineer — Asah by Dicoding & Accenture (2025–Present)
+  - Led team of 5 (ML + React), delivered banking sales prediction portal, boosted team efficiency by 70%
+- Laboratory Assistant — Universitas Dian Nuswantoro (2025–Present)
+  - Assisted 3+ labs/week; mentored ~110 students
+- Data Analyst — Blockvizo Research (2024–2025)
+  - Processed 50K+ records; +35% forecasting accuracy, -40% analysis time
+- Member — GDGoC Udinus (2023–2025)
+
+### Tech Toolbox
+- Languages: Python, C++, JavaScript, PHP, SQL (MySQL)
+- Frameworks/Libs: TensorFlow, OpenCV, scikit-learn, React
+- Tools: Git, Docker, MLflow, Tableau, Jupyter
+- Focus: Computer Vision, Applied ML, MLOps
+
+### Education
+- B.Sc. Informatics — Universitas Dian Nuswantoro (Aug 2023 – Present), GPA 3.85/4
+
+### Certifications
+- IBM: EDA for ML; Supervised ML; Introduction to AI
+- Dicoding: Fundamental Deep Learning; Membangun Sistem ML; Machine Learning untuk Pemula; Memulai Pemrograman dengan Python
+
+### Let’s Connect
+Open for collaboration on AI, computer vision, and data-driven web apps. Reach out via email or LinkedIn.
+
+    </td>
+  </tr>
+</table><div align="center">
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Firdaus%20Khotibul%20Zickrian&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
