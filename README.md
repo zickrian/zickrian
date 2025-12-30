@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="img/game.gif" alt="Mario Animation" width="600px" />
+  <img src="img/game.gif" alt="Mario Animation" width="500px" />
 </div>
 
 <h1 align="center">
@@ -36,6 +36,7 @@ Hey there! 👋 I'm Zickrian, a passionate developer who's been on this coding j
     <i>Happy coding! 💻</i>
   </p>
 </div>
+
 
 
 
