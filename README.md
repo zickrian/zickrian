@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="img/game.gif" alt="Mario Animation" width="500px" />
 </div>
 
@@ -11,7 +11,7 @@
 Hey there! 👋 I'm Zickrian, a passionate developer who's been on this coding journey since 2023. 
 
 <p align="left">
-✨ I love turning ideas into code (and yes, I create bugs too, but hey, that's how we learn! 😄)<br>
+✨ I love turning ideas into code <br>
 📚 Currently diving deep into <strong>Machine Learning</strong> and AI technologies - it's fascinating!<br>
 🛡️ Recently got certified with <strong>ASAH by Dicoding</strong> - always learning something new!<br>
 🎯 My current goals: Building my first major web app and landing that dream internship<br>
