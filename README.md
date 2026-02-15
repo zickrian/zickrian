@@ -1,18 +1,3 @@
-
-<div align="center">
-  <a href="https://www.zickrian.dev">
-    <img src="https://img.shields.io/badge/Portfolio-www.zickrian.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:contact@zickrian.dev">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/zickrian">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br />
-
 ### 👨‍💻 About Me
 
 I am **Firdaus Khotibul Zickrian**, a passionate **AI Engineer** based in Indonesia 🇮🇩. I specialize in designing and building intelligent systems that learn, adapt, and solve complex real-world problems. My expertise lies in advanced data science, machine learning models, and bringing AI solutions to life.
@@ -27,14 +12,24 @@ I am **Firdaus Khotibul Zickrian**, a passionate **AI Engineer** based in Indone
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zickrian&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true" alt="Zickrian's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zickrian&theme=midnight-owl&hide_border=true" alt="Zickrian's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zickrian&layout=compact&theme=midnight-owl&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zickrian&theme=midnight-owl&hide_border=true" alt="Zickrian's Streak" >
 </div>
 
 <br>
+
+<div align="center">
+  <a href="https://www.zickrian.dev">
+    <img src="https://img.shields.io/badge/Portfolio-www.zickrian.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:contact@zickrian.dev">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/zickrian">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br />
 
 <div align="center">
   <i>"The best way to predict the future is to invent it."</i>
