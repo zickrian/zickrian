@@ -1,42 +1,41 @@
-<div align="center">
-  <img src="img/game.gif" alt="Mario Animation" width="500px" />
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Zickrian!;" />
-</h1>
-
-## 🚀 About Me
-
-Hey there! 👋 I'm Zickrian, a passionate developer who's been on this coding journey since 2023. 
-
-<p align="left">
-✨ I love turning ideas into code <br>
-📚 Currently diving deep into <strong>Machine Learning</strong> and AI technologies - it's fascinating!<br>
-🛡️ Recently got certified with <strong>ASAH by Dicoding</strong> - always learning something new!<br>
-🎯 My current goals: Building my first major web app and landing that dream internship<br>
-🎲 Fun fact: I'm a night owl who codes best with a cup of coffee ☕ and some good music 🎵<br>
-💡 Always open to collaborate on interesting projects or just chat about tech!
-</p>
-
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zickrian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.zickrian.dev">
+    <img src="https://img.shields.io/badge/Portfolio-www.zickrian.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:contact@zickrian.dev">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/zickrian">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
+<br />
 
+### 👨‍💻 About Me
+
+I am **Firdaus Khotibul Zickrian**, a passionate **AI Engineer** based in Indonesia 🇮🇩. I specialize in designing and building intelligent systems that learn, adapt, and solve complex real-world problems. My expertise lies in advanced data science, machine learning models, and bringing AI solutions to life.
+
+*   💼 **Current Role**: Currently participating in **Pijak**, working on innovative tech solutions.
+*   🏅 **Achievements**: Certified with **ASAH by Dicoding**, demonstrating commitment to continuous professional growth.
+*   🔭 **Current Focus**: Developing scalable AI architectures and integrated Deep Learning models.
+*   🌱 **Interests**: I am deeply interested in AI research, system design, and open-source contributions.
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <h3>✨ Thanks for stopping by! ✨</h3>
-  <p>
-    If you like what you see, feel free to star some of my repos or drop a message!<br>
-    Always happy to help and learn together! 🚀
-  </p>
-  <p>
-    <i>Happy coding! 💻</i>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zickrian&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true" alt="Zickrian's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zickrian&theme=midnight-owl&hide_border=true" alt="Zickrian's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zickrian&layout=compact&theme=midnight-owl&hide_border=true" alt="Top Languages" />
 </div>
 
+<br>
 
-
-
+<div align="center">
+  <i>"The best way to predict the future is to invent it."</i>
+</div>
