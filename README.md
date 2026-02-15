@@ -21,10 +21,10 @@ I am **Firdaus Khotibul Zickrian**, a passionate **AI Engineer** based in Indone
   <a href="https://www.zickrian.dev">
     <img src="https://img.shields.io/badge/Portfolio-www.zickrian.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:contact@zickrian.dev">
+  <a href="mailto:firdauskhotibulzickrian@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/zickrian">
+  <a href="https://www.linkedin.com/in/firdauskhotibulzickrian/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
