@@ -28,7 +28,10 @@ I believe AI is not just about models - it's about designing systems that actual
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zickrian&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zickrian&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zickrian&theme=tokyonight" />
+<br/>
+<img width="48%" src="https://streak-stats.demolab.com?user=zickrian&theme=tokyonight&hide_border=true" />
 
 </div>
 
