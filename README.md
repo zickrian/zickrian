@@ -26,7 +26,6 @@
 
 <h3>🧠 About Me</h3>
 
-- 💼 AI Engineer Cohort at Pijak (IBM SkillsBuild × Dicoding)
 - 🏆 Top 5 National Finalist of Base Track, Coinbase Hackathon Indonesia 2025
 - 🔬 Interested in AI systems, machine learning, and data-driven products
 - 📊 Analyzing data, building dashboards, and turning insights into solutions for business problems
