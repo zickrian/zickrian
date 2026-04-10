@@ -7,7 +7,7 @@
 
 <p align="center">
   I'm currently pursuing a Bachelor's degree in Computer Science while sharpening my programming skills and exploring the wider technology landscape.
-  My learning journey is focused on software development, data, artificial intelligence, and machine learning, with a long-term goal of building practical systems that solve real business problems.
+  My learning journey is focused on software development, data analysis, artificial intelligence, and machine learning, with a long-term goal of transforming raw data into actionable insights, decision-support tools, and intelligent systems that create real business impact.
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
 - 💼 AI Engineer Cohort at Pijak (IBM SkillsBuild × Dicoding)
 - 🏆 Top 5 National Finalist of Base Track, Coinbase Hackathon Indonesia 2025
 - 🔬 Interested in AI systems, machine learning, and data-driven products
+- 📊 Analyzing data, building dashboards, and turning insights into solutions for business problems
 - 🌱 Growing through research, hands-on projects, and open-source learning
 - 🧩 I enjoy breaking down complex problems into clear, practical, and maintainable solutions
 - 🚀 Exploring how AI, data, backend systems, and cloud infrastructure can work together in real products
@@ -44,16 +45,16 @@
       <strong>🌱 Direction</strong>
       <ul>
         <li>Intelligent applications that connect data, models, and user needs</li>
-        <li>Data workflows that turn raw information into better decisions</li>
+        <li>Data analysis workflows that turn raw information into dashboards, insights, and better business decisions</li>
         <li>Model deployment practices that make AI usable beyond experiments</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <strong>🔭 Current Focus</strong>
       <ul>
+        <li>Data analysis, dashboarding, and insight generation for business problems</li>
         <li>Machine learning, data science, and AI system design</li>
-        <li>Backend APIs for practical AI-powered products</li>
-        <li>Cloud, monitoring, and reliable production deployment</li>
+        <li>Backend APIs, cloud, monitoring, and reliable production deployment</li>
       </ul>
     </td>
   </tr>
