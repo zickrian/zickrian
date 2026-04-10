@@ -24,7 +24,7 @@
 
 <img align="right" src="./img/sides.jpg" alt="Firdaus Khotibul Zickrian profile side image" width="270" />
 
-<h3>🧠 About Me</h3>
+<h3>📚 About Me</h3>
 
 - 🏆 Top 5 National Finalist of Base Track, Coinbase Hackathon Indonesia 2025
 - 🔬 Interested in AI systems, machine learning, and data-driven products
