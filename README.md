@@ -29,8 +29,9 @@
 <h3>📚 About Me</h3>
 
 - 🏆 Top 5 National Finalist of Base Track, Coinbase Hackathon Indonesia 2025
+- 🥇 Recognized as the Best Capstone Project in Pijak in collaboration with IBM SkillsBuild, selected from 120+ capstone projects nationwide
+- 🎓 Graduated with Distinction and recognized as the Best Graduate among 600+ Expert Class students nationwide, selected from 20,000+ Basic Class applicants
 - 🔬 Interested in AI systems, machine learning, and data-driven products
-- 📊 Analyzing data, building dashboards, and turning insights into solutions for business problems
 - 🌱 Growing through research, hands-on projects, and open-source learning
 - 🧩 I enjoy breaking down complex problems into clear, practical, and maintainable solutions
 - 🚀 Exploring how AI, data, backend systems, and cloud infrastructure can work together in real products
