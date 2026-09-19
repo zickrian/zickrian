@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/4a4a8e54411589be451acbf3fbe05f22.gif" alt="Firdaus Khotibul Zickrian header" />
+  <img src="./img/banner1.gif" alt="Firdaus Khotibul Zickrian header" />
 </div>
 
 <div align="center">
