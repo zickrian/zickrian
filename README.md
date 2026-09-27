@@ -1,10 +1,5 @@
 <div align="center">
-  <img src="./img/banner1.gif" alt="Firdaus Khotibul Zickrian header" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=31&fontColor=8DBA8E&fontAlignY=70&animation=fadeIn" alt="Welcome to My GitHub Universe" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8DBA8E&height=1&section=header" width="100%" alt="Green divider" />
+  <img src="./img/banner.gif" alt="Firdaus Khotibul Zickrian header" width="100%" />
 </div>
 
 <p align="center">
@@ -47,14 +42,14 @@
       <strong>🌱 Direction</strong>
       <ul>
         <li>Intelligent applications that connect data, models, and user needs</li>
-        <li>Data analysis workflows that turn raw information into dashboards, insights, and better business decisions</li>
+        <li>ERP systems that connect operations, inventory, and finance into one reliable business workflow</li>
         <li>Model deployment practices that make AI usable beyond experiments</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <strong>🔭 Current Focus</strong>
       <ul>
-        <li>Data analysis, dashboarding, and insight generation for business problems</li>
+        <li>ERP development and business process automation for real operational problems</li>
         <li>Machine learning, data science, and AI system design</li>
         <li>Backend APIs, cloud, monitoring, and reliable production deployment</li>
       </ul>
