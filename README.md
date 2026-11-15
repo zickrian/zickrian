@@ -2,25 +2,6 @@
   <img src="./img/banner.gif" alt="Firdaus Khotibul Zickrian header" width="100%" />
 </div>
 
-<p align="center">
-  I'm currently pursuing a Bachelor's degree in Computer Science while sharpening my programming skills and exploring the wider technology landscape.
-  My learning journey is focused on software development, data analysis, artificial intelligence, and machine learning, with a long-term goal of transforming raw data into actionable insights, decision-support tools, and intelligent systems that create real business impact.
-</p>
-
-<p align="center">
-  <a href="https://www.zickrian.dev"><img src="https://img.shields.io/badge/Portfolio-zickrian.dev-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
-  <a href="mailto:firdauskhotibulzickrian@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/firdauskhotibulzickrian/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
-  <a href="https://base.org"><img src="https://img.shields.io/badge/Base-Building-8FAADC?style=for-the-badge&logo=coinbase&logoColor=white&labelColor=3F4F44" alt="Base" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zickrian&style=for-the-badge&color=6B8E6E&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zickrian?style=for-the-badge&color=D9897E&labelColor=3F4F44&label=Followers" alt="GitHub followers" />
-</p>
-
-<img align="right" src="./img/sides.jpg" alt="Firdaus Khotibul Zickrian profile side image" width="270" />
-
 <h3>📚 About Me</h3>
 
 - 🏆 Top 5 National Finalist of Base Track, Coinbase Hackathon Indonesia 2025
