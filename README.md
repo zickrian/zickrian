@@ -15,29 +15,6 @@
 
 <br clear="right" />
 
-<h3>🌿 What I'm Building Toward</h3>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🌱 Direction</strong>
-      <ul>
-        <li>Intelligent applications that connect data, models, and user needs</li>
-        <li>ERP systems that connect operations, inventory, and finance into one reliable business workflow</li>
-        <li>Model deployment practices that make AI usable beyond experiments</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <strong>🔭 Current Focus</strong>
-      <ul>
-        <li>ERP development and business process automation for real operational problems</li>
-        <li>Machine learning, data science, and AI system design</li>
-        <li>Backend APIs, cloud, monitoring, and reliable production deployment</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <h3>🧰 Tech Garden</h3>
 
 <p align="center">
