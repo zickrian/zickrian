@@ -60,5 +60,3 @@
     </td>
   </tr>
 </table>
-
-<img src="./img/footer.jpg" alt="Firdaus Khotibul Zickrian footer" width="100%" />
